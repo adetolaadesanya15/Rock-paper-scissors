@@ -42,7 +42,7 @@ while True:
     elif user_input == 'Scissors' and computer_pick == 'Rock':
         print('Computer wins')
         computer_win += 1
-    elif user_input == 'Rock' and computer_pick == 'rock':
+    elif user_input == 'Rock' and computer_pick == 'Rock':
         print('It is a draw')
     else:
          pass  
